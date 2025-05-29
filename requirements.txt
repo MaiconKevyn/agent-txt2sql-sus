@@ -1,0 +1,8 @@
+langchain==0.1.20
+langchain-community==0.0.38
+sqlalchemy==2.0.30
+pandas==2.0.3
+transformers==4.40.0
+torch==2.3.0
+accelerate==0.30.0
+db-sqlite3
